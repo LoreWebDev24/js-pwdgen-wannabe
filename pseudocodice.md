@@ -1,7 +1,12 @@
 #js-pwdgen-wannabe
 
--Creare le variabili seguenti con annesso il prompt:
+- Creare le variabili con annesso il prompt:
     -Nome
     -Cognome
     -Colore Preferito
-    -Password Generata
+
+- Creare la variabili senza il prompt:
+    -Numero Fisso
+    -Password da Generare con sommatoria
+
+- Modificare l'innerHTML dell' h1 con il valore della variabile password-generated
