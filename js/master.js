@@ -11,7 +11,7 @@ console.log(surname);
 const color = prompt('Inserisci il tuo colore preferito');
 console.log(color);
 //     -Numero Fisso
-const number = 21 
+const number = 21; 
 console.log(number);
 // -Password da Generare per esser displayata con sommatoria
 const passwordGenerated = username + surname + color + number
@@ -19,6 +19,6 @@ const passwordGenerated = username + surname + color + number
 //   - Modificare l'innerHTML dell' h1 con il valore della variabile password-generated
 document.getElementById('password-generated').innerHTML = `La tua nuova password è: ${passwordGenerated}`;
 
-
+// document.getElementById('password-generated').innerHTML = "La tua nuova password è: " + passwordGenerated;
 
 
