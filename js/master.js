@@ -13,10 +13,10 @@ console.log(color);
 //     -Numero Fisso
 const number = 21 
 console.log(number);
-//     -Password Generata
+// -Password da Generare per esser displayata con sommatoria
 const passwordGenerated = username + surname + color + number
 
-//   - modificare l'innerHTML dell' h1 con il valore della variabile password-generated
+//   - Modificare l'innerHTML dell' h1 con il valore della variabile password-generated
 document.getElementById('password-generated').innerHTML = `La tua nuova password è: ${passwordGenerated}`;
 
 

@@ -7,6 +7,6 @@
 
 - Creare la variabili senza il prompt:
     -Numero Fisso
-    -Password da Generare con sommatoria
+    -Password da Generare per esser displayata con sommatoria
 
 - Modificare l'innerHTML dell' h1 con il valore della variabile password-generated
